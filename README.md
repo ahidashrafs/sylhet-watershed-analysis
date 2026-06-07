@@ -5,6 +5,7 @@ markdown
 
 This project maps out the stream networks and watershed boundaries of the Sylhet Basin. By processing elevation data, calculating flow pathways, and analyzing drainage density, this model pinpoints exactly which areas face the highest risk of sudden flash floods from across transboundary borders.
 
+---
 
 ## 🛠️ Step-by-Step Project Workflow
 
@@ -33,6 +34,7 @@ To cleanly separate permanent river channels from minor surface puddles or tempo
 
 spatial_analysis
 "Flow_Accumulation" > 600
+
 
 
 > **Why 600 pixels?** This threshold filters out small surface runoff drainage lines, ensuring that only core stream channels with a solid upstream drainage footprint are extracted.
