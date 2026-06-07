@@ -43,7 +43,7 @@ Stream lengths and basin area were calculated from the attribute tables using **
 
 ![Stream Length Calculation](Calculation_of_all_Stream_Length.png)
 
-![Basin Area & Stream Density](Calculation_of_Stram_Area_&_Stream_Density.png)
+![Basin Area & Stream Density](Calculation_of_Stream_Area_&_Stream_Density.png)
 
 ![Delineation Output](Delineation.png)
 
