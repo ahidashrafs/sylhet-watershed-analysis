@@ -17,7 +17,7 @@ From there, **Flow Direction** and **Flow Accumulation** grids were generated to
 
 ![Regional Basin Map](Basins.png)
 
-The largest continuous catchment was isolated to define the primary Sylhet Basin study area.
+The basin map shows flow accumulation values across the catchment — darker areas indicate higher accumulated flow, marking the main drainage corridors. From all the extracted basins, I selected the largest one as the study area and clipped the analysis to that boundary.
 
 ![Watershed Boundary](Watershed.png)
 
