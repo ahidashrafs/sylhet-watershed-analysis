@@ -72,7 +72,3 @@ The **Line Density** tool split the watershed into 5 zones.
 
 ---
 
-## Tools Used
-
-ArcGIS Pro · USGS EarthExplorer · Flow Direction · Flow Accumulation · Raster Calculator · Line Density · Raster to Polyline
-```
