@@ -1,6 +1,6 @@
 # Sylhet-Watershed-Analysis
 ArcGIS Pro project mapping out the stream networks and watershed boundaries of the Sylhet Basin. Used USGS DEM data to calculate flow pathways and drainage density, helping pinpoint exactly which areas face the highest risk of flash floods.
-```
+
 # Flood Risk Mapping — Sylhet Basin
 
 This project maps stream networks and watershed boundaries across the Sylhet Basin using ArcGIS Pro. By processing elevation data and analyzing drainage density, it identifies which areas face the highest flash flood risk — particularly from transboundary inflows along the northern border.
@@ -27,9 +27,9 @@ The largest continuous catchment was isolated to define the primary Sylhet Basin
 
 To separate permanent river channels from minor surface runoff, the flow accumulation raster was filtered in **Raster Calculator** using a 600-pixel threshold:
 
-```
-"Flow_Accumulation" > 600
-```
+
+Flow_Accumulation > 600
+
 
 This keeps only channels with a meaningful upstream drainage area — cutting out noise while preserving the core network. Outputs were converted to vector lines using **Raster to Polyline**.
 
