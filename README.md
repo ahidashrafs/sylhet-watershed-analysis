@@ -65,7 +65,7 @@ $$D_d = \frac{4849.20 \text{ km}}{3862.46 \text{ km}^2} = 1.25 \text{ km/km}^2$$
 
 The **Line Density** tool split the watershed into 5 zones.
 
-![Spatial Distribution by Drainage Density Class](Spatial_Distribution_of_Watershed_Area_by_Drainage_Density_Class_(%).png)
+![Spatial Distribution by Drainage Density Class](Spatial_Distribution_of_Watershed_Area_by_Drainage_Density_Class.png)
 
 - **Low density zones (0.15–0.8 km/km²)** cover 53.4% of the basin — flat haor wetlands that absorb and hold large volumes of monsoon rain naturally.
 - **High density zones (2.21–3.55 km/km²)** run along the steep northern border — these are where transboundary rains funnel down fast, driving the flash floods that hit the Surma River system downstream.
